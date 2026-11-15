@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sonic outer wave halo inside 66dp safe zone -->
+    <path
+        android:fillColor="#408FDCFF"
+        android:pathData="M54,24A30,30 0 1,0 84,54A30,30 0 0,0 54,24ZM54,76A22,22 0 1,1 76,54A22,22 0 0,1 54,76Z" />
+    <!-- Crisp equalizer / sonic bars -->
+    <path
+        android:fillColor="#8FDCFF"
+        android:pathData="M34,46C34,43.8 35.8,42 38,42C40.2,42 42,43.8 42,46V62C42,64.2 40.2,66 38,66C35.8,66 34,64.2 34,62V46Z" />
+    <path
+        android:fillColor="#F2F7FF"
+        android:pathData="M46,35C46,32.8 47.8,31 50,31C52.2,31 54,32.8 54,35V73C54,75.2 52.2,77 50,77C47.8,77 46,75.2 46,73V35Z" />
+    <path
+        android:fillColor="#F2F7FF"
+        android:pathData="M58,41C58,38.8 59.8,37 62,37C64.2,37 66,38.8 66,41V67C66,69.2 64.2,71 62,71C59.8,71 58,69.2 58,67V41Z" />
+    <path
+        android:fillColor="#8FDCFF"
+        android:pathData="M70,49C70,46.8 71.8,45 74,45C76.2,45 78,46.8 78,49V59C78,61.2 76.2,63 74,63C71.8,63 70,61.2 70,59V49Z" />
+</vector>

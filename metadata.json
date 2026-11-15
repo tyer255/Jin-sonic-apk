@@ -1,0 +1,6 @@
+{
+  "name": "JIN SONIC",
+  "description": "Music player UI with drifting sky backdrop, Nimbus liquid navigation, Now Playing sheet, and Playback Console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
